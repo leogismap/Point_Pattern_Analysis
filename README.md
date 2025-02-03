@@ -9,6 +9,9 @@ Measurement Sites: Points represent locations where events occur within a broade
 
 When robberies happen at certain locations but could have occurred elsewhere, they form a point pattern. For example, street robberies in a city are not evenly distributed but cluster in certain hotspots. If only locations are analyzed, it's an unmarked pattern. If additional details (e.g., time of robbery, weapon used) are included, it's a marked pattern.
 
+This project used the crime data from https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/data_preview
+
+
 
 
 
